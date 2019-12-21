@@ -29,7 +29,7 @@
                 </div>
                 <div class="swiper-slide app__slide">
                     <phone image="stories"
-                           subtitle="После публикации отзыва, можно сделать историю с этим заведеним"
+                           subtitle="После публикации отзыва, можно сделать историю с этим заведением"
                            title="Истории"/>
                 </div>
                 <div class="swiper-slide app__slide">
@@ -45,12 +45,12 @@
                 </div>
                 <div class="swiper-slide app__slide">
                     <phone image="start"
-                           subtitle="Достаточно подключить платежи в сообществе и – всё готово. Интеграцию c API группы мы cделаем сами"
+                           subtitle="Достаточно подключить платежи в сообществе – и всё готово. Интеграцию c API группы мы cделаем сами"
                            title="Быстрый старт"/>
                 </div>
                 <div class="swiper-slide app__slide">
                     <phone image="staff"
-                           subtitle="Принимать платежи может не только владелец сообщества, но и приглашенные им кассиры"
+                           subtitle="Принимать платежи может не только владелец сообщества, но и приглашённые им кассиры"
                            title="Добавление сотрудников"/>
                 </div>
                 <div class="swiper-slide app__backlog">
