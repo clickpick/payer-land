@@ -62,11 +62,12 @@ export default {
 }
 
 .phone__mock {
-
     margin-top: 10px;
 
     width: 100%;
-    height: 554px;
+    height: 60vh;
+
+    max-height: 554px;
 
     box-shadow: 40px 70px 100px rgba(0, 0, 0, 0.25);
     border-radius: 35px;
