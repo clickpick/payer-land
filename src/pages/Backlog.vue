@@ -103,16 +103,21 @@ export default {
 @media (max-width: 900px) {
     .backlog {
         flex-direction: column;
+        justify-content: flex-start;
         padding: 0 30px;
     }
 
     .backlog__l {
         align-items: flex-start;
         padding-right: 0;
+        flex-grow: 0;
+        margin-top: 30px;
     }
 
     .backlog__r {
         padding-left: 0;
+        flex-grow: 0;
+        margin-top: 20px;
     }
 }
 

@@ -15,7 +15,7 @@
                 <div class="swiper-slide app__slide">
                     <phone image="catalog"
                            subtitle="Выбери место для досуга не выходя из ВКонтакте. Dark theme ready"
-                           title="Каталог проверенных мест1"/>
+                           title="Каталог проверенных мест"/>
                 </div>
                 <div class="swiper-slide app__slide">
                     <phone image="bill"
